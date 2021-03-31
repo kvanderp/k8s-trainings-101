@@ -1,6 +1,6 @@
 # K8S 101 Challenge
 
-This is a series of exercices and hands on in order to get into Kubernetes and start working on NGINX Ingress Controller.
+This is a series of exercises and hands on labs in order to get into Kubernetes and start working on NGINX Ingress Controller.
 
 ## Capture the Flag
 Of course, if there is a challenge, there will be a winner (I did not mention anything about a price though)!
